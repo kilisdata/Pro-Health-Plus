@@ -34,7 +34,7 @@ The dataset consisted of three tables, including information about campaigns, si
 - COVID-related campaigns reported extraordinarily high customer acquisition costs, ranging from **$1,200 to $1,300**. These figures suggest challenges in targeting and engaging audiences effectively during sensitive periods.
 
 ## Dashboard
-The dashboard can be found in Tableau Public. This dashboard enables users to filter by plan, campaign type, and state, and focuses on trends and values in marketing metrics, signup metrics, and claim metrics.
+The dashboard can be found in Tableau Public [here](https://public.tableau.com/app/profile/kilila.ninsavang/viz/ProHealthPlus/ExecutiveDashboard). This dashboard enables users to filter by plan, campaign type, and state, and focuses on trends and values in marketing metrics, signup metrics, and claim metrics.
 
 ![image](https://github.com/user-attachments/assets/44f77e7d-c3cb-4059-bf90-f7dd2092238c)
 
