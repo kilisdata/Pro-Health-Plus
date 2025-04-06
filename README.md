@@ -32,7 +32,14 @@ The dataset consisted of three tables, including information about campaigns, si
 - The "Golden Years Security" campaign proved to be the most expensive in terms of customer acquisition, with a **cost per signup of $124**, dramatically higher than the average of **$2.20**. This campaign also had the lowest total signups, achieving only **23**, highlighting its inefficiency and raising questions about resource allocation.
 - Info-based campaign types, such as those focusing on offers and policy information, contributed significantly to higher customer acquisition costs. This suggests that informative campaigns may require more resources to drive engagement and conversions.
 - COVID-related campaigns reported extraordinarily high customer acquisition costs, ranging from **$1,200 to $1,300**. These figures suggest challenges in targeting and engaging audiences effectively during sensitive periods.
+# Recommendations
+**Health for All:** Reallocate funds from the Golden Years Security program to Health for All campaigns, which outperform in key metrics but have received only $20,000 in investment.
 
+**Health Awareness:** Focus on health awareness marketing within the Health for All campaigns, as product promotion efforts have resulted in low signup rates and CTR.
+
+**COVID Campaigns:** Investigate the high signup cost for COVID-related campaigns, which have only generated 2 signups at over $1,000 each, compared to an average of $2.20. Consider removing these campaigns.
+
+**#HealthyLiving:** Decrease spending in this category, which has the highest cost at $46,000 but shows mediocre signup rates compared to Health for All campaigns.
 ## Dashboard
 The dashboard can be found in Tableau Public [here](https://public.tableau.com/app/profile/kilila.ninsavang/viz/ProHealthPlus/ExecutiveDashboard). This dashboard enables users to filter by plan, campaign type, and state, and focuses on trends and values in marketing metrics, signup metrics, and claim metrics.
 
