@@ -3,8 +3,8 @@
 With over ten years in business, Pro Health is a medical insurance company serving thousands of clients across the country. As part of the company's 2019 marketing campaign, wellness tips, affordable health care plans, and preventive care topics were featured. There are four different plans available to customers: bronze, silver, gold, and platinum, each with varying premiums and levels of coverage.
 
 The new data team at Pro Health and the upcoming strategizing of their marketing budget this year will support their efforts to better understand the impact of these campaign categories on customer signups and claims. There are two primary objectives for the marketing budget: 
-1) increase the number of customers,
-2) 2) raise awareness of Pro Health nationwide.
+1) increase the number of customers.
+2) raise awareness of Pro Health nationwide.
 
 # Data Structure
 The dataset consisted of three tables, including information about campaigns, signups, and user demographics, as well as claims filed by customers and related claim information.
